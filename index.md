@@ -7,7 +7,9 @@ title: Fery
 ---
 <h2>About</h2>
 
-Fery (20) is currently enrolled as a second-year [Digital Business][digital] student at the [Faculty of Economics and Business, Universitas Padjadjaran][faculty]. Else than this will be added soon (this website is still being worked on).
+Fery (20) is currently pursuing his study as a second-year student in [Digital Business Program][digital] at the [Faculty of Economics and Business, Universitas Padjadjaran][faculty]. 
+
+He is passionate and has acquired knowledge about data & business and with his high curiosity, eagerness to learn, and ability to overcome challenges, he is seeking opportunities and experiences to collaborate and create an impact in the industry in which he can put his knowledge into practice.
 
 <h2>Contact Me</h2>
 - You can reach me at [{{site.email}}][mail].
