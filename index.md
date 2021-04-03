@@ -19,6 +19,7 @@ He is passionate and has acquired knowledge about data & business and with his h
 - [GitHub][github]
 - [Medium][medium]
 - [Tableau Public][tableau]
+- [Credly][credly]
 
 
 [digital]: http://digital.feb.unpad.ac.id/
@@ -28,3 +29,4 @@ He is passionate and has acquired knowledge about data & business and with his h
 [github]: https://github.com/imfery
 [medium]: https://imfery.medium.com/
 [tableau]: https://public.tableau.com/profile/imfery
+[credly]: https://www.credly.com/users/fery/badges

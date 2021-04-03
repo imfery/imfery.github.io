@@ -6,7 +6,7 @@ permalink: /resume
 
 <h2>Skills</h2>
 
-Python, SQL, Git, Design Thinking
+Python, SQL, Git, Design Thinking, Tableau
 <br><br>
 
 <h2>Education</h2>
