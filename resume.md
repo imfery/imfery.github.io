@@ -47,7 +47,7 @@ November 2019 - December 2019
 - Assisted one of the work program of Student Advocacy and Welfare Department
 <br>
 
-**Director of Ticketing and Publication - Digitalks**<br>
+**Head of Ticketing and Publication - Digitalks**<br>
 September 2019 - November 2019
 
 - Digitalks is an annual seminar event that is held by Himpunan Mahasiswa Bisnis Digital Universitas Padjadjaran, aims to raise awareness of how industry 4.0 has disrupted various fields and changed the pattern of social and economic interaction
