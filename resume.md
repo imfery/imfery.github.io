@@ -19,7 +19,7 @@ Bachelor of Economics - Digital Business [GPA: 3.84/4.00]
 <h2>Volunteer/Comittee/Organization</h2>
 
 **Vice Head of Technical Operator - P+ 2021**<br>
-Mei 2021 - Present
+May 2021 - Present
 
 - TBA
 <br>
