@@ -3,13 +3,11 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
-title: Fery
+title: Fery | Home
 ---
 <h2>About</h2>
 
-Fery (20) is currently pursuing his study as a second-year student in [Digital Business Program][digital] at the [Faculty of Economics and Business, Universitas Padjadjaran][faculty]. 
-
-He is passionate and has acquired knowledge about data & business and with his high curiosity, eagerness to learn, and ability to overcome challenges, he is seeking opportunities and experiences to collaborate and create an impact in the industry in which he can put his knowledge into practice.
+Fery (20) is currently pursuing his study as a third-year student (5th semester) in [Digital Business Program][digital] at the [Faculty of Economics and Business, Universitas Padjadjaran][faculty].
 
 <h2>Contact Me</h2>
 - You can reach me at [{{site.email}}][mail].

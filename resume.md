@@ -6,7 +6,7 @@ permalink: /resume
 
 <h2>Skills</h2>
 
-Python, SQL, Git, Design Thinking, Tableau
+Python, SQL, Git, HTML, CSS, Design Thinking, Tableau
 <br><br>
 
 <h2>Education</h2>
@@ -16,7 +16,14 @@ August 2019 - Present
 Bachelor of Economics - Digital Business [GPA: 3.84/4.00]
 <br><br>
 
-<h2>Organization Experience</h2>
+<h2>Volunteer/Comittee/Organization</h2>
+
+**Vice Head of Technical Operator - P+ 2021**<br>
+Mei 2021 - Present
+
+- TBA
+<br>
+
 **Manager of Student Center - Himpunan Mahasiswa Bisnis Digital Universitas Padjadjaran**<br>
 January 2020 - December 2020
 
@@ -85,6 +92,29 @@ September 2019 - November 2019
     <td><a href="https://www.datacamp.com/statement-of-accomplishment/track/eddb4af8d5d8a740f31fec758b58b5db985e5e23">Data Scientist with Python Track</a></td>
     <td>DataCamp</td>
     <td>December 2020</td>
+</tr>
+</table>
+
+<h2>Online Courses</h2>
+<table class="pure-table pure-table-bordered">
+    <thead>
+        <tr>
+            <th>Course</th>
+            <th>Issued by</th>
+            <th>Issued date</th>
+        </tr>
+    </thead>
+
+<tr>
+    <td><a href="https://www.coursera.org/account/accomplishments/verify/VNZRPL2S6EBD">Mathematics for Machine Learning: Linear Algebra</a></td>
+    <td>Coursera</td>
+    <td>March 24, 2021</td>
+</tr>
+
+<tr>
+    <td><a href="https://www.coursera.org/account/accomplishments/verify/SG4MN8NHU2BS">Mathematics for Machine Learning: Multivariate Calculus</a></td>
+    <td>Coursera</td>
+    <td>April 25, 2021</td>
 </tr>
 </table>
 
