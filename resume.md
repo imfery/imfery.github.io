@@ -72,11 +72,12 @@ September 2019 - November 2019
 </tr>
 </table>
 
-<h2>Licenses & Certifications</h2>
+
+<h2>Courses Certification</h2>
 <table class="pure-table pure-table-bordered">
     <thead>
         <tr>
-            <th>License/Certification</th>
+            <th>Course</th>
             <th>Issued by</th>
             <th>Issued date</th>
         </tr>
@@ -93,17 +94,6 @@ September 2019 - November 2019
     <td>DataCamp</td>
     <td>December 2020</td>
 </tr>
-</table>
-
-<h2>Online Courses</h2>
-<table class="pure-table pure-table-bordered">
-    <thead>
-        <tr>
-            <th>Course</th>
-            <th>Issued by</th>
-            <th>Issued date</th>
-        </tr>
-    </thead>
 
 <tr>
     <td><a href="https://www.coursera.org/account/accomplishments/verify/VNZRPL2S6EBD">Mathematics for Machine Learning: Linear Algebra</a></td>
@@ -116,6 +106,7 @@ September 2019 - November 2019
     <td>Coursera</td>
     <td>April 25, 2021</td>
 </tr>
+
 </table>
 
 <h2>Languages</h2>
