@@ -13,7 +13,7 @@ Python, SQL, Git, HTML, CSS, Design Thinking, Tableau
 **Universitas Padjadjaran**<br>
 August 2019 - Present
 
-Bachelor of Economics - Digital Business [GPA: 3.84/4.00]
+Bachelor of Economics - Digital Business [GPA: 3.88/4.00]
 <br><br>
 
 <h2>Volunteer/Comittee/Organization</h2>
