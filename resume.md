@@ -6,22 +6,37 @@ permalink: /resume
 
 <h2>Skills</h2>
 
-Python, SQL, Git, HTML, CSS, Design Thinking, Tableau
+Python, SQL, Git, HTML, CSS, Design Thinking, Tableau, System Analysis
 <br><br>
 
 <h2>Education</h2>
+
 **Universitas Padjadjaran**<br>
 August 2019 - Present
 
 Bachelor of Economics - Digital Business [GPA: 3.88/4.00]
 <br><br>
 
+<h2>Work Experience</h2>
+
+**Junior System Analyst - PT Hashmicro Solusi Indonesia (Internship)**<br>
+Sep 2021 - Present
+
+- Perform system analysis and design for Inventory system
+- Conduct research and development to improve the quality of HashMicro ERP system (mainly Inventory module)
+- Create technical requirement documents to develop new/current features and delegate it to the developer
+- Testing developed features and functions to validate the requirement
+- Responsible for managing and ensuring the software development cycle is completed on time
+<br><br>
+
 <h2>Volunteer/Comittee/Organization</h2>
 
-**Vice Head of Technical Operator - P+ 2021**<br>
-May 2021 - Present
+**Vice Head of Technical Operator - P+ 2021 Fakultas Ekonomi dan Bisnis Universitas Padjadjaran**<br>
+May 2021 - Aug 2021
 
-- TBA
+- A student orientation which is organized for new coming Faculty of Economics and Business students
+- Responsible for maintaining and developing P+ 2021 website
+- Organized the team so that they can operate various tools used to run the event by online according to the manual and requirements
 <br>
 
 **Manager of Student Center - Himpunan Mahasiswa Bisnis Digital Universitas Padjadjaran**<br>
