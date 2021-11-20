@@ -75,15 +75,21 @@ September 2019 - November 2019
     <thead>
         <tr>
             <th>Level</th>
+            <th>Title</th>
             <th>Description</th>
-            <th>Rank</th>
         </tr>
     </thead>
                 
 <tr>
     <td>University</td>
     <td>Grant Awardee Hibah Inovasi Pre-Startup Universitas Padjadjaran 2020</td>
-    <td>Grant Awardee</td>
+    <td>Hibah Inovasi Pre-Startup Mahasiswa Unpad competition was initiated by Universitas Padjadjaran along with Oorange - Pusat Inkubator Bisnis. This grant program aims to increase the number of new entrepreneurs among Unpad students. My team (BuildUp!) was selected to be one of the funded teams from more than 100 registrant teams.</td>
+</tr>
+
+<tr>
+    <td>University</td>
+    <td>Scholarship Awardee 2021-2022</td>
+    <td>Selected as Central Bank of Indonesia Scholarship Awardee in purpose to improve the quality of the younger generation, especially students. The scholarship covers funds and would be used to support education costs, study allowances, and living expenses, also Awardees will become members of the Generation Baru Indonesia (GenBI) community that provide leadership training, workshop, and mentoring to produce individuals who are smart, creative and innovative future successors of the nation.</td>
 </tr>
 </table>
 
