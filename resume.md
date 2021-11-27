@@ -6,7 +6,7 @@ permalink: /resume
 
 <h2>Skills</h2>
 
-Python, SQL, Git, HTML, CSS, Design Thinking, Tableau, System Analysis
+Python, SQL, Git, HTML, CSS, Design Thinking, Data Analytics, Tableau, System Analysis
 <br><br>
 
 <h2>Education</h2>
@@ -14,7 +14,9 @@ Python, SQL, Git, HTML, CSS, Design Thinking, Tableau, System Analysis
 **Universitas Padjadjaran**<br>
 August 2019 - Present
 
-Bachelor of Economics - Digital Business [GPA: 3.88/4.00]
+Bachelor of Economics - Digital Business
+- GPA: 3.88/4.00
+- Selected as Central Bank of Indonesia Scholarship Awardee 2021-2022
 <br><br>
 
 <h2>Work Experience</h2>
@@ -84,12 +86,6 @@ September 2019 - November 2019
     <td>Grant Awardee Hibah Inovasi Pre-Startup Universitas Padjadjaran 2020</td>
     <td>Hibah Inovasi Pre-Startup Mahasiswa Unpad competition was initiated by Universitas Padjadjaran along with Oorange - Pusat Inkubator Bisnis. This grant program aims to increase the number of new entrepreneurs among Unpad students. My team (BuildUp!) was selected to be one of the funded teams from more than 100 registrant teams.</td>
     <td>Oorange Unpad</td>
-</tr>
-
-<tr>
-    <td>Scholarship Awardee 2021-2022 by Central Bank of Indonesia</td>
-    <td>Selected as Central Bank of Indonesia Scholarship Awardee in purpose to improve the quality of the younger generation, especially students. The scholarship covers funds and would be used to support education costs, study allowances, and living expenses, also Awardees will become members of the Generation Baru Indonesia (GenBI) community that provide leadership training, workshop, and mentoring to produce individuals who are smart, creative and innovative future successors of the nation.</td>
-    <td>Central Bank of Indonesia</td>
 </tr>
 </table>
 
