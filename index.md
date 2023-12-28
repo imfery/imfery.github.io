@@ -13,6 +13,9 @@ Fery (20) is currently pursuing his study as a third-year student (5th semester)
 - You can reach me at [{{site.email}}][mail].
 
 <h2>Links</h2>
+- [Main Instagram][instagram1]
+- [📷 Instagram][instagram2]
+- [Twitter/X][twitter]
 - [LinkedIn][linkedin]
 - [GitHub][github]
 - [Medium][medium]
@@ -20,6 +23,9 @@ Fery (20) is currently pursuing his study as a third-year student (5th semester)
 - [Credly][credly]
 
 
+[instagram1]: https://instagram.com/ffery_
+[instagram2]: https://instagram.com/fierfliees
+[twitter]: https://x.com/deliferypizza
 [digital]: http://digital.feb.unpad.ac.id/
 [faculty]: http://feb.unpad.ac.id/
 [mail]: mailto:{{site.email}}
