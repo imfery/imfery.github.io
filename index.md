@@ -15,6 +15,7 @@ message: Hi there! 👋.<br>It's just a simple web page which is created using J
 - [Letterboxd][letterboxd]
 - [Twitch][twitch]
 - [GitHub][github]
+- [Spotify][spotify]
 - [Collectibles][lazy]
 
 
@@ -27,4 +28,4 @@ message: Hi there! 👋.<br>It's just a simple web page which is created using J
 [tiktok]: https://tiktok.com/@fluffyrugss
 [twitch]: https://www.twitch.tv/supperciouss
 [lazy]: https://lazy.com/suppercious
-[jekyll]: https://jekyllrb.com/
+[spotify]: https://open.spotify.com/user/6xvtovh1qzgxhdquauje76ldg?si=37665ed532db456c
