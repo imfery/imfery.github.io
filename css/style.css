@@ -5,6 +5,7 @@ body {
 }
 .header {
     text-align: center;
+    margin-top: 10px;
 }
 .profile {
     width: 150px;
