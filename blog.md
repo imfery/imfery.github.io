@@ -7,6 +7,7 @@ permalink: /writings
 
 <h2>Writings</h2>
 
+<br>
 [**Baduy**][baduy]
 - Writing in progress
 
