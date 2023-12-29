@@ -4,7 +4,7 @@
 
 layout: page
 title: Fery | Home
-message: Hi there! 👋
+message: Hi there! 👋. It's just a simple web page which is created using [Jekyll][jekyll]. Know more about me by accessing the public socials or links and by reading some of my writings.
 ---
 <h2>Public Socials / Links</h2>
 - [{{site.email}}][mail]
@@ -26,3 +26,4 @@ message: Hi there! 👋
 [tiktok]: https://tiktok.com/@fluffyrugss
 [twitch]: https://www.twitch.tv/supperciouss
 [lazy]: https://lazy.com/suppercious
+[jekyll]: https://jekyllrb.com/
