@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
+type: home
 title: Fery | Home
 message: Hi there! 👋.<br>It's just a simple web page which is created using Jekyll.<br> Know more about me by accessing the public socials or links and by reading some of my writings.
 ---
