@@ -4,7 +4,7 @@
 
 layout: page
 title: Fery | Home
-message: Hi there! 👋. It's just a simple web page which is created using [Jekyll][jekyll]. Know more about me by accessing the public socials or links and by reading some of my writings.
+message: Hi there! 👋.<br>It's just a simple web page which is created using Jekyll.<br> Know more about me by accessing the public socials or links and by reading some of my writings.
 ---
 <h2>Public Socials / Links</h2>
 - [{{site.email}}][mail]
