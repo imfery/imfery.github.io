@@ -9,11 +9,13 @@
 <body>
     <main class="page-content" aria-label="Content">
       <div class="wrapper">
+          
             <div class="header">
                 <br>
                 <br>
                 <br>
                 <br>
+                {% if page.writing != true %}
                 <h2 class="profile-name">imfery</h2>
                 <br>
                 <br>
@@ -21,6 +23,13 @@
                 <br>
                 <br>
 
+                {% else %}
+                <br>
+                <br>
+                <br>
+                <br>
+                {% endif %}
+                
                 <div class="pure-menu pure-menu-horizontal pure-menu-scrollable">
                     <ul class="pure-menu-list">
                         
