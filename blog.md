@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Fery | Writings
-message: Some of my thoughts which is poured into writings.
+message: Some of my thoughts which are poured into writings.
 permalink: /writings
 ---
 
