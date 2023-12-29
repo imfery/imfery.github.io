@@ -4,6 +4,7 @@
 
 layout: page
 title: Fery | Home
+welcome_message: Hi there! 👋
 ---
 <h2>Public Socials / Links</h2>
 - [{{site.email}}][mail]
