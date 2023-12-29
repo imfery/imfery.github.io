@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Fery | Blog
-permalink: /blog
+permalink: /writings
 ---
 
-<h2>Blog</h2>
+<h2>Writings</h2>
 
 [**Teorema Bayes**][teorema_bayes]
 - Fery shared about Bayes' Theorem which is one of the important probability theory used to update the confidence level of a hypothesis as new events emerge.
@@ -13,9 +13,7 @@ permalink: /blog
 - After a year of the first Covid-19 case in Indonesia, Fery created a visualization about Covid-19 daily cases, the daily number of people who were being checked, the positivity rate, and the vaccine progress in the country.
 
 <br>
-More articles in [Medium][medium].
 
 
-[medium]: https://imfery.medium.com/
 [teorema_bayes]: https://imfery.medium.com/teorema-bayes-54448b6221b1
 [covid19]: https://imfery.medium.com/a-year-of-covid-19-in-indonesia-ce4c851de2dc
