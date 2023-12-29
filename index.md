@@ -5,10 +5,6 @@
 layout: page
 title: Fery | Home
 ---
-<h2>Hi there! 👋</h2>
-
-<h2></h2>
-
 <h2>Public Socials / Links</h2>
 - [{{site.email}}][mail]
 - [Instagram 1][instagram1][ | ][Instagram 2][instagram2]
