@@ -7,7 +7,7 @@ title: Fery | Home
 ---
 <h2>Public Socials / Links</h2>
 - [{{site.email}}][mail]
-- [Instagram 1][instagram1][ | ][Instagram 2][instagram2]
+- [Instagram 1][instagram1] & [Instagram 2][instagram2]
 - [TikTok][tiktok]
 - [LinkedIn][linkedin]
 - [Letterboxd][letterboxd]
