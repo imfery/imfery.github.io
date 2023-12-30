@@ -8,10 +8,6 @@ permalink: /writings
 <h2>Writings</h2>
 
 <br>
-[**Baduy**][baduy]
-- Writing in progress
-
-<br>
 [**Examining Characteristics on Twitter Users’ Text and Hashtag Utilization During Tech Winter Layoff Post-COVID-19 Using LDA and K-Means Clustering Approach**][hubasia] - Published on Dec 19, 2023
 - Post-COVID-19 pandemic has significantly impacted the global economy, resulting in a surge of job losses and layoffs across various industries, including the technology sector. The pandemic has led to changes in consumer behavior, supply chain disruptions, and an overall decrease in demand, all of which have contributed to the current economic situation. With the rise of social media platforms, individuals have been using Twitter to express their thoughts and opinions on the impact of the pandemic on the technology industry, including the increase in job losses and layoffs.
 
